@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1635941400 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\artista.cpp
+	"Artista.h"
+	<iostream>
+
+1635941400 c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\artista.h
+	<string>
+	"Musica.h"
+
+1605150704 c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\musica.h
+	<string>
+
+1635991466 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\banda.cpp
+	<algorithm>
+	<iostream>
+	"Banda.h"
+
+1635991481 c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\banda.h
+	<string>
+	"Artista.h"
+	"Pessoa.h"
+
+1605150702 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\musica.cpp
+	<iostream>
+	"Musica.h"
+
+1635991420 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\teste.cpp
+	"Banda.h"
+	"UsuarioPessoa.h"
+	<iostream>
+
+1635942247 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\pessoa.cpp
+	"Pessoa.h"
+	<iostream>
+
+1635941794 c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\pessoa.h
+	<string>
+	"Artista.h"
+
+1623098466 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\usuario.cpp
+	<iostream>
+	"Usuario.h"
+
+1622549902 c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\usuario.h
+	"Artista.h"
+
+1635977072 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\usuariopessoa.cpp
+	"UsuarioPessoa.h"
+
+1635977026 c:\users\lucas\onedrive\햞ea de trabalho\aula 08 laboo\usuariopessoa.h
+	"Usuario.h"
+	"Pessoa.h"
+	<string>
+

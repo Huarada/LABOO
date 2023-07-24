@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="EXERCICIO PROGRAMA 2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/EXERCICIO PROGRAMA 2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/EXERCICIO PROGRAMA 2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Datagrama.cpp" />
+		<Unit filename="Datagrama.h" />
+		<Unit filename="Evento.cpp" />
+		<Unit filename="Evento.h" />
+		<Unit filename="FilaComPrioridade.cpp" />
+		<Unit filename="FilaComPrioridade.h" />
+		<Unit filename="No.cpp" />
+		<Unit filename="No.h" />
+		<Unit filename="PersistenciaDeRede.cpp" />
+		<Unit filename="PersistenciaDeRede.h" />
+		<Unit filename="Roteador.cpp" />
+		<Unit filename="Roteador.h" />
+		<Unit filename="Segmento.cpp" />
+		<Unit filename="Segmento.h" />
+		<Unit filename="TabelaDeRepasse.cpp" />
+		<Unit filename="TabelaDeRepasse.h" />
+		<Unit filename="fila.cpp" />
+		<Unit filename="fila.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

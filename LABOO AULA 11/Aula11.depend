@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1637957606 source:c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 11\artista.cpp
+	<iostream>
+	<stdexcept>
+	"Artista.h"
+	<list>
+	<algorithm>
+
+1637957620 c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 11\artista.h
+	<string>
+	<list>
+	"Musica.h"
+
+1605755096 c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 11\musica.h
+	<string>
+
+1605755296 source:c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 11\musica.cpp
+	<iostream>
+	<stdexcept>
+	"Musica.h"
+
+1637956922 source:c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 11\teste.cpp
+	"Playlist.h"
+	<string>
+	"Artista.h"
+	<iostream>
+	<vector>
+	"Musica.h"
+
+1637953124 source:c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 11\playlist.cpp
+	<iostream>
+	<stdexcept>
+	<vector>
+	"Playlist.h"
+
+1637953056 c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 11\playlist.h
+	<string>
+	<vector>
+	"Musica.h"
+

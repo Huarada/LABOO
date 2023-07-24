@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1638034842 source:c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\main.cpp
+	<iostream>
+	<string>
+	"Segmento.h"
+	"Datagrama.h"
+	<stdexcept>
+	"FilaComPrioridade.h"
+	"Roteador.h"
+
+1637814727 source:c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\datagrama.cpp
+	"Segmento.h"
+	"Datagrama.h"
+	<iostream>
+
+1637812286 c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\segmento.h
+	<string>
+
+1637816942 c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\datagrama.h
+	"Segmento.h"
+	<string>
+
+1637812770 source:c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\segmento.cpp
+	"Segmento.h"
+	<string>
+	<iostream>
+
+1637981791 source:c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\fila.cpp
+	<string>
+	"fila.h"
+	<iostream>
+	"datagrama.h"
+	<stdexcept>
+
+1637981791 c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\fila.h
+	"datagrama.h"
+
+1637874780 source:c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+	"fila.h"
+	<stdexcept>
+	<string>
+	<iostream>
+
+1637877875 c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\filacomprioridade.h
+	"fila.h"
+
+1637981945 source:c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\evento.cpp
+	"Evento.h"
+	<string>
+	"No.h"
+	<iostream>
+
+1637980638 c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\evento.h
+	"Datagrama.h"
+	"No.h"
+
+1638025103 c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\no.h
+	"fila.h"
+	"Evento.h"
+
+1638025227 source:c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\no.cpp
+	"No.h"
+	<iostream>
+
+1638024709 source:c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+	<string>
+	<stdexcept>
+	<iostream>
+
+1637989411 c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\tabeladerepasse.h
+	"No.h"
+
+1638035044 source:c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\roteador.cpp
+	"Roteador.h"
+	<iostream>
+
+1638035281 c:\users\lucas\onedrive\햞ea de trabalho\exercicio programa 2\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+

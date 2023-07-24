@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1623755936 source:c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 10\musica.cpp
+	<iostream>
+	"Musica.h"
+
+1623756102 c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 10\musica.h
+	<string>
+
+1637354283 source:c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 10\teste.cpp
+	"PersistenciaMusica.h"
+	"Musica.h"
+	<iostream>
+	<stdexcept>
+
+1637352849 source:c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 10\persistenciamusica.cpp
+	<stdexcept>
+	<fstream>
+	<iostream>
+	"PersistenciaMusica.h"
+
+1637351756 c:\users\lucas\onedrive\햞ea de trabalho\laboo aula 10\persistenciamusica.h
+	<string>
+	"Musica.h"
+

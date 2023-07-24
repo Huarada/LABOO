@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1634785445 source:c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\agendador.cpp
+	"Agendador.h"
+
+1634785445 c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\agendador.h
+	"Rede.h"
+	"Evento.h"
+
+1634786068 c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\rede.h
+	"Roteador.h"
+
+1634792775 c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\roteador.h
+	"Datagrama.h"
+	"Fila.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+
+1633009331 c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\datagrama.h
+	<string>
+
+1634779086 c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\fila.h
+	"datagrama.h"
+
+1634785458 c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\tabeladerepasse.h
+	"Roteador.h"
+
+1634785445 c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\evento.h
+	"Roteador.h"
+	"Datagrama.h"
+
+1632970265 source:c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\datagrama.cpp
+	<iostream>
+	<string>
+	"datagrama.h"
+
+1634785445 source:c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\evento.cpp
+	"Evento.h"
+
+1634785799 source:c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\fila.cpp
+	<string>
+	"fila.h"
+	<iostream>
+	"datagrama.h"
+
+1634785456 source:c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+
+1634779399 source:c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\main.cpp
+	<iostream>
+	"datagrama.h"
+	<string>
+	"fila.h"
+
+1634786074 source:c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\rede.cpp
+	"Rede.h"
+
+1634792775 source:c:\users\lucas\onedrive\햞ea de trabalho\trabalho steph ep laboo\roteador.cpp
+	<iostream>
+	<string>
+	"Roteador.h"
+

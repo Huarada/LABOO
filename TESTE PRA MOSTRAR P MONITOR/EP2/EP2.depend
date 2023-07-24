@@ -1,0 +1,317 @@
+# depslib dependency file v1.0
+1636469152 source:c:\users\dell\onedrive\desktop\ep2\ep2\fila.cpp
+	"Fila.h"
+
+1636392022 c:\users\dell\onedrive\desktop\ep2\ep2\fila.h
+	"Datagrama.h"
+
+1636467722 c:\users\dell\onedrive\desktop\ep2\ep2\datagrama.h
+	"Segmento.h"
+
+1636389012 c:\users\dell\onedrive\desktop\ep2\ep2\segmento.h
+	<string>
+	<iostream>
+
+1636467620 source:c:\users\dell\onedrive\desktop\ep2\ep2\segmento.cpp
+	"Segmento.h"
+
+1636468126 source:c:\users\dell\onedrive\desktop\ep2\ep2\datagrama.cpp
+	"Datagrama.h"
+
+1636469210 source:c:\users\dell\onedrive\desktop\ep2\ep2\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+
+1636468953 c:\users\dell\onedrive\desktop\ep2\ep2\filacomprioridade.h
+	"Fila.h"
+	"Datagrama.h"
+
+1636393934 source:c:\users\dell\onedrive\desktop\ep2\ep2\evento.cpp
+	"Evento.h"
+
+1636395799 c:\users\dell\onedrive\desktop\ep2\ep2\evento.h
+	"No.h"
+	"Datagrama.h"
+
+1636475119 c:\users\dell\onedrive\desktop\ep2\ep2\no.h
+	"Fila.h"
+	"Datagrama.h"
+	"Evento.h"
+
+1636475023 source:c:\users\dell\onedrive\desktop\ep2\ep2\no.cpp
+	"No.h"
+
+1636395925 source:c:\users\dell\onedrive\desktop\ep2\ep2\roteador.cpp
+	"Roteador.h"
+
+1636395925 c:\users\dell\onedrive\desktop\ep2\ep2\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+
+1636471980 c:\users\dell\onedrive\desktop\ep2\ep2\tabeladerepasse.h
+	"No.h"
+
+1636472337 source:c:\users\dell\onedrive\desktop\ep2\ep2\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+
+1636467966 source:c:\users\dell\onedrive\desktop\ep2\ep2\teste.cpp
+	"Segmento.h"
+	"Datagrama.h"
+	<string>
+	<iostream>
+
+1637981260 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\datagrama.cpp
+	"Datagrama.h"
+
+1636467722 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\datagrama.h
+	"Segmento.h"
+
+1636389012 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\segmento.h
+	<string>
+	<iostream>
+
+1637913346 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\evento.cpp
+	"Evento.h"
+
+1636395799 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\evento.h
+	"No.h"
+	"Datagrama.h"
+
+1638047699 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\no.h
+	"Fila.h"
+	"Datagrama.h"
+	"Evento.h"
+
+1636392022 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\fila.h
+	"Datagrama.h"
+
+1638048384 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\fila.cpp
+	"Fila.h"
+
+1638053340 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+
+1638053331 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\filacomprioridade.h
+	"Fila.h"
+	"Datagrama.h"
+
+1638283667 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\no.cpp
+	"No.h"
+
+1638051571 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+
+1638051571 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\tabeladerepasse.h
+	"No.h"
+
+1638450861 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\teste.cpp
+	"Agendador.h"
+	"Chat.h"
+	"Datagrama.h"
+	"Evento.h"
+	"Fila.h"
+	"FilaComPrioridade.h"
+	"Hospedeiro.h"
+	"No.h"
+	"PersistenciaDeRede.h"
+	"Rede.h"
+	"Roteador.h"
+	"RoteadorComQoS.h"
+	"Segmento.h"
+	"TabelaDeRepasse.h"
+	<string>
+	<iostream>
+	<stdexcept>
+
+1637910971 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\segmento.cpp
+	"Segmento.h"
+
+1638448187 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\rede.cpp
+	"Rede.h"
+
+1637985626 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\rede.h
+	"No.h"
+	"Hospedeiro.h"
+	<list>
+	<algorithm>
+
+1638284345 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\hospedeiro.h
+	"Roteador.h"
+	"Chat.h"
+	<vector>
+	<stdexcept>
+
+1638273656 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+
+1638284345 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\chat.h
+	"Hospedeiro.h"
+	"Datagrama.h"
+	<stdexcept>
+
+1638281670 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\chat.cpp
+	"Chat.h"
+
+1638420460 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\hospedeiro.cpp
+	"Hospedeiro.h"
+
+1638451138 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\agendador.cpp
+	"Agendador.h"
+
+1638282270 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\agendador.h
+	"Rede.h"
+	"No.h"
+	"Datagrama.h"
+	<list>
+	<algorithm>
+
+1638273656 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\roteador.cpp
+	"Roteador.h"
+
+1638053331 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\roteadorcomqos.cpp
+	"RoteadorComQoS.h"
+
+1638052468 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\roteadorcomqos.h
+	"Roteador.h"
+	"FilaComPrioridade.h"
+	<vector>
+
+1638449411 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\persistenciaderede.cpp
+	"PersistenciaDeRede.h"
+
+1638449169 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\persistenciaderede.h
+	<string>
+	<fstream>
+	<stdexcept>
+	"Rede.h"
+	"Roteador.h"
+	"RoteadorComQoS.h"
+
+1638281672 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\chat.cpp
+	"Chat.h"
+
+1638284346 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\chat.h
+	"Hospedeiro.h"
+	"Datagrama.h"
+	<stdexcept>
+
+1638284346 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\hospedeiro.h
+	"Roteador.h"
+	"Chat.h"
+	<vector>
+	<stdexcept>
+
+1638273658 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+
+1638047700 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\no.h
+	"Fila.h"
+	"Datagrama.h"
+	"Evento.h"
+
+1636392024 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\fila.h
+	"Datagrama.h"
+
+1636467724 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\datagrama.h
+	"Segmento.h"
+
+1636389014 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\segmento.h
+	<string>
+	<iostream>
+
+1636395800 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\evento.h
+	"No.h"
+	"Datagrama.h"
+
+1638051572 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\tabeladerepasse.h
+	"No.h"
+
+1637981262 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\datagrama.cpp
+	"Datagrama.h"
+
+1637913348 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\evento.cpp
+	"Evento.h"
+
+1638048386 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\fila.cpp
+	"Fila.h"
+
+1638053342 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+
+1638053332 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\filacomprioridade.h
+	"Fila.h"
+	"Datagrama.h"
+
+1638420462 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\hospedeiro.cpp
+	"Hospedeiro.h"
+
+1638283668 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\no.cpp
+	"No.h"
+
+1638448188 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\rede.cpp
+	"Rede.h"
+
+1637985628 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\rede.h
+	"No.h"
+	"Hospedeiro.h"
+	<list>
+	<algorithm>
+
+1638273658 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\roteador.cpp
+	"Roteador.h"
+
+1638053332 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\roteadorcomqos.cpp
+	"RoteadorComQoS.h"
+
+1638052470 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\roteadorcomqos.h
+	"Roteador.h"
+	"FilaComPrioridade.h"
+	<vector>
+
+1637910972 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\segmento.cpp
+	"Segmento.h"
+
+1638051572 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+
+1638451730 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\agendador.cpp
+	"Agendador.h"
+
+1638282272 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\agendador.h
+	"Rede.h"
+	"No.h"
+	"Datagrama.h"
+	<list>
+	<algorithm>
+
+1638451860 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\persistenciaderede.cpp
+	"PersistenciaDeRede.h"
+
+1638449170 c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\persistenciaderede.h
+	<string>
+	<fstream>
+	<stdexcept>
+	"Rede.h"
+	"Roteador.h"
+	"RoteadorComQoS.h"
+
+1638549906 source:c:\users\lucas\onedrive\햞ea de trabalho\teste pra mostrar p monitor\ep2\teste.cpp
+	"Agendador.h"
+	"Chat.h"
+	"Datagrama.h"
+	"Evento.h"
+	"Fila.h"
+	"FilaComPrioridade.h"
+	"Hospedeiro.h"
+	"No.h"
+	"PersistenciaDeRede.h"
+	"Rede.h"
+	"Roteador.h"
+	"RoteadorComQoS.h"
+	"Segmento.h"
+	"TabelaDeRepasse.h"
+	<string>
+	<iostream>
+	<stdexcept>
+

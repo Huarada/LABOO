@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1634944471 source:c:\users\lucas\onedrive\햞ea de trabalho\ep de laboo\ep de laboo\main.cpp
+	<iostream>
+	"datagrama.h"
+	<string>
+	"fila.h"
+	"roteador.h"
+	"tabeladerepasse.h"
+	"evento.h"
+
+1633009331 c:\users\lucas\onedrive\햞ea de trabalho\ep de laboo\ep de laboo\datagrama.h
+	<string>
+
+1632970265 source:c:\users\lucas\onedrive\햞ea de trabalho\ep de laboo\ep de laboo\datagrama.cpp
+	<iostream>
+	<string>
+	"datagrama.h"
+
+1634872551 source:c:\users\lucas\onedrive\햞ea de trabalho\ep de laboo\ep de laboo\fila.cpp
+	<string>
+	"fila.h"
+	<iostream>
+	"datagrama.h"
+
+1634876987 c:\users\lucas\onedrive\햞ea de trabalho\ep de laboo\ep de laboo\fila.h
+	"datagrama.h"
+
+1634946549 source:c:\users\lucas\onedrive\햞ea de trabalho\ep de laboo\ep de laboo\roteador.cpp
+	"roteador.h"
+	"tabeladerepasse.h"
+	<string>
+	<iostream>
+
+1634919170 c:\users\lucas\onedrive\햞ea de trabalho\ep de laboo\ep de laboo\roteador.h
+	"fila.h"
+	"evento.h"
+	"tabeladerepasse.h"
+
+1634905183 c:\users\lucas\onedrive\햞ea de trabalho\ep de laboo\ep de laboo\evento.h
+	"roteador.h"
+	"datagrama.h"
+
+1634906075 c:\users\lucas\onedrive\햞ea de trabalho\ep de laboo\ep de laboo\tabeladerepasse.h
+	"roteador.h"
+
+1634905225 source:c:\users\lucas\onedrive\햞ea de trabalho\ep de laboo\ep de laboo\evento.cpp
+	"evento.h"
+
+1634940513 source:c:\users\lucas\onedrive\햞ea de trabalho\ep de laboo\ep de laboo\tabeladerepasse.cpp
+	"tabeladerepasse.h"
+	<string>
+	<iostream>
+

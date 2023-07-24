@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1638390123 source:c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\cadastro.cpp
+	"Cadastro.h"
+	<stdexcept>
+	<iostream>
+
+1637859248 c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\cadastro.h
+	<string>
+	<vector>
+	"Passaporte.h"
+
+1638970859 c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\passaporte.h
+	<string>
+	"Vacina.h"
+	<vector>
+
+1638966360 c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\vacina.h
+
+1638973959 source:c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\jansen.cpp
+	"Jansen.h"
+	<stdexcept>
+	<iostream>
+
+1638968611 c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\jansen.h
+	"Vacina.h"
+
+1638973346 source:c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\main.cpp
+	<iostream>
+	"Vacina.h"
+	"Passaporte.h"
+	"Jansen.h"
+	"Coronavac.h"
+
+1638972767 source:c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\passaporte.cpp
+	"Passaporte.h"
+	<stdexcept>
+	<iostream>
+
+1637871620 source:c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\testep2.cpp
+	<iostream>
+
+1638972952 source:c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\vacina.cpp
+	"Vacina.h"
+	<stdexcept>
+	<iostream>
+
+1638973959 source:c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\coronavac.cpp
+	"Coronavac.h"
+	<stdexcept>
+	<iostream>
+
+1638967959 c:\users\lucas\onedrive\햞ea de trabalho\questao_1_laboo\coronavac.h
+	"Vacina.h"
+

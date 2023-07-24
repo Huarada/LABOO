@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1634942546 source:c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\datagrama.cpp
+	<iostream>
+	<string>
+	"Datagrama.h"
+
+1634793462 c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\datagrama.h
+	<iostream>
+	<string>
+
+1634942546 source:c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\evento.cpp
+	<iostream>
+	<string>
+	"Evento.h"
+
+1634793462 c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\evento.h
+	"Roteador.h"
+	"Datagrama.h"
+
+1634874828 c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\roteador.h
+	"Datagrama.h"
+	"Fila.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+
+1634793462 c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\fila.h
+	"Datagrama.h"
+
+1634793462 c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\tabeladerepasse.h
+	"Roteador.h"
+
+1634943962 source:c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\fila.cpp
+	"Fila.h"
+
+1634943772 source:c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\rede.cpp
+	<iostream>
+	<string>
+	"Rede.h"
+
+1634793462 c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\rede.h
+	"Roteador.h"
+
+1634943262 source:c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\roteador.cpp
+	<iostream>
+	<string>
+	"Roteador.h"
+
+1634943962 source:c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+
+1634954300 source:c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\agendador.cpp
+	"Agendador.h"
+
+1634937478 c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\agendador.h
+	"Rede.h"
+	"Evento.h"
+
+1634954312 source:c:\users\lucas\onedrive\햞ea de trabalho\eplabooconjunto2\main.cpp
+	"Datagrama.h"
+	"Fila.h"
+	"TabelaDeRepasse.h"
+	"Evento.h"
+	"Roteador.h"
+	"Rede.h"
+	"Agendador.h"
+	<string>
+	<iostream>
+

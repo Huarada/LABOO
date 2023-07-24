@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1636740815 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 09 laboo\musica.cpp
+	<iostream>
+	<stdexcept>
+	"Musica.h"
+	"SemAvaliacao.h"
+
+1604543818 c:\users\lucas\onedrive\햞ea de trabalho\aula 09 laboo\musica.h
+	<string>
+
+1636745185 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 09 laboo\playlist.cpp
+	<iostream>
+	<stdexcept>
+	"Playlist.h"
+	"SemAvaliacao.h"
+
+1636739012 c:\users\lucas\onedrive\햞ea de trabalho\aula 09 laboo\playlist.h
+	<string>
+	"Musica.h"
+
+1636745052 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 09 laboo\teste.cpp
+	<iostream>
+	<stdexcept>
+	<string>
+	"Playlist.h"
+	"Musica.h"
+	"SemAvaliacao.h"
+
+1636740424 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 09 laboo\semavaliacao.cpp
+	"SemAvaliacao.h"
+	<stdexcept>
+	<string>
+
+1636740329 c:\users\lucas\onedrive\햞ea de trabalho\aula 09 laboo\semavaliacao.h
+	<stdexcept>
+	<string>
+

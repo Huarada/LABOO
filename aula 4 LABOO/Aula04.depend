@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1631301249 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 4 laboo\musica.cpp
+	"Musica.h"
+	<iostream>
+
+1631305876 c:\users\lucas\onedrive\햞ea de trabalho\aula 4 laboo\musica.h
+	<string>
+
+1631306569 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 4 laboo\playlist.cpp
+	"Playlist.h"
+	<string>
+	<iostream>
+
+1631306537 c:\users\lucas\onedrive\햞ea de trabalho\aula 4 laboo\playlist.h
+	<string>
+	"Musica.h"
+
+1631306158 source:c:\users\lucas\onedrive\햞ea de trabalho\aula 4 laboo\teste.cpp
+	"Musica.h"
+	<iostream>
+	<string>
+	"Playlist.h"
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="EP1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/EP1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="./" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/EP1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="./" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Agendador.cpp" />
+		<Unit filename="Agendador.h" />
+		<Unit filename="Datagrama.cpp" />
+		<Unit filename="Datagrama.h" />
+		<Unit filename="Evento.cpp" />
+		<Unit filename="Evento.h" />
+		<Unit filename="Fila.cpp" />
+		<Unit filename="Fila.h" />
+		<Unit filename="Rede.cpp" />
+		<Unit filename="Rede.h" />
+		<Unit filename="Roteador.cpp" />
+		<Unit filename="Roteador.h" />
+		<Unit filename="TabelaDeRepasse.cpp" />
+		<Unit filename="TabelaDeRepasse.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

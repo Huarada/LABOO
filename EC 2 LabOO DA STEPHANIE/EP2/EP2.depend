@@ -1,0 +1,285 @@
+# depslib dependency file v1.0
+1636469152 source:c:\users\dell\onedrive\desktop\ep2\ep2\fila.cpp
+	"Fila.h"
+
+1636392022 c:\users\dell\onedrive\desktop\ep2\ep2\fila.h
+	"Datagrama.h"
+
+1636467722 c:\users\dell\onedrive\desktop\ep2\ep2\datagrama.h
+	"Segmento.h"
+
+1636389012 c:\users\dell\onedrive\desktop\ep2\ep2\segmento.h
+	<string>
+	<iostream>
+
+1636467620 source:c:\users\dell\onedrive\desktop\ep2\ep2\segmento.cpp
+	"Segmento.h"
+
+1636468126 source:c:\users\dell\onedrive\desktop\ep2\ep2\datagrama.cpp
+	"Datagrama.h"
+
+1636469210 source:c:\users\dell\onedrive\desktop\ep2\ep2\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+
+1636468953 c:\users\dell\onedrive\desktop\ep2\ep2\filacomprioridade.h
+	"Fila.h"
+	"Datagrama.h"
+
+1636393934 source:c:\users\dell\onedrive\desktop\ep2\ep2\evento.cpp
+	"Evento.h"
+
+1636395799 c:\users\dell\onedrive\desktop\ep2\ep2\evento.h
+	"No.h"
+	"Datagrama.h"
+
+1636475119 c:\users\dell\onedrive\desktop\ep2\ep2\no.h
+	"Fila.h"
+	"Datagrama.h"
+	"Evento.h"
+
+1636475023 source:c:\users\dell\onedrive\desktop\ep2\ep2\no.cpp
+	"No.h"
+
+1636395925 source:c:\users\dell\onedrive\desktop\ep2\ep2\roteador.cpp
+	"Roteador.h"
+
+1636395925 c:\users\dell\onedrive\desktop\ep2\ep2\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+
+1636471980 c:\users\dell\onedrive\desktop\ep2\ep2\tabeladerepasse.h
+	"No.h"
+
+1636472337 source:c:\users\dell\onedrive\desktop\ep2\ep2\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+
+1636467966 source:c:\users\dell\onedrive\desktop\ep2\ep2\teste.cpp
+	"Segmento.h"
+	"Datagrama.h"
+	<string>
+	<iostream>
+
+1637981260 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\datagrama.cpp
+	"Datagrama.h"
+
+1636467722 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\datagrama.h
+	"Segmento.h"
+
+1636389012 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\segmento.h
+	<string>
+	<iostream>
+
+1637913346 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\evento.cpp
+	"Evento.h"
+
+1636395799 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\evento.h
+	"No.h"
+	"Datagrama.h"
+
+1638047699 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\no.h
+	"Fila.h"
+	"Datagrama.h"
+	"Evento.h"
+
+1636392022 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\fila.h
+	"Datagrama.h"
+
+1638048384 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\fila.cpp
+	"Fila.h"
+
+1638053340 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+
+1638053331 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\filacomprioridade.h
+	"Fila.h"
+	"Datagrama.h"
+
+1638046115 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\no.cpp
+	"No.h"
+
+1638051571 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+
+1638051571 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\tabeladerepasse.h
+	"No.h"
+
+1638052919 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\teste.cpp
+	"Segmento.h"
+	"Datagrama.h"
+	"Fila.h"
+	"FilaComPrioridade.h"
+	"No.h"
+	"Roteador.h"
+	"RoteadorComQoS.h"
+	<string>
+	<iostream>
+
+1637910971 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\segmento.cpp
+	"Segmento.h"
+
+1638048008 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\rede.cpp
+	"Rede.h"
+
+1637985626 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\rede.h
+	"No.h"
+	"Hospedeiro.h"
+	<list>
+	<algorithm>
+
+1637981497 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\hospedeiro.h
+	"Roteador.h"
+	"Chat.h"
+	<vector>
+
+1637976602 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+
+1637978371 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\chat.h
+	"Hospedeiro.h"
+	"Datagrama.h"
+
+1637983615 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\chat.cpp
+	"Chat.h"
+
+1637986517 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\hospedeiro.cpp
+	"Hospedeiro.h"
+
+1638048008 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\agendador.cpp
+	"Agendador.h"
+
+1637988604 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\agendador.h
+	"Rede.h"
+	"No.h"
+	"Datagrama.h"
+	<algorithm>
+
+1638050450 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\roteador.cpp
+	"Roteador.h"
+
+1638053331 source:c:\users\dell\onedrive\desktop\laboo\ep2\ep2\roteadorcomqos.cpp
+	"RoteadorComQoS.h"
+
+1638052468 c:\users\dell\onedrive\desktop\laboo\ep2\ep2\roteadorcomqos.h
+	"Roteador.h"
+	"FilaComPrioridade.h"
+	<vector>
+
+1638048010 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\agendador.cpp
+	"Agendador.h"
+
+1637988606 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\agendador.h
+	"Rede.h"
+	"No.h"
+	"Datagrama.h"
+	<algorithm>
+
+1637985628 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\rede.h
+	"No.h"
+	"Hospedeiro.h"
+	<list>
+	<algorithm>
+
+1638047700 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\no.h
+	"Fila.h"
+	"Datagrama.h"
+	"Evento.h"
+
+1636392024 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\fila.h
+	"Datagrama.h"
+
+1636467724 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\datagrama.h
+	"Segmento.h"
+
+1636389014 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\segmento.h
+	<string>
+	<iostream>
+
+1636395800 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\evento.h
+	"No.h"
+	"Datagrama.h"
+
+1637981498 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\hospedeiro.h
+	"Roteador.h"
+	"Chat.h"
+	<vector>
+
+1637976604 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\roteador.h
+	"No.h"
+	"TabelaDeRepasse.h"
+
+1638051572 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\tabeladerepasse.h
+	"No.h"
+
+1637978372 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\chat.h
+	"Hospedeiro.h"
+	"Datagrama.h"
+
+1637983616 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\chat.cpp
+	"Chat.h"
+
+1637981262 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\datagrama.cpp
+	"Datagrama.h"
+
+1637913348 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\evento.cpp
+	"Evento.h"
+
+1638048386 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\fila.cpp
+	"Fila.h"
+
+1638053342 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\filacomprioridade.cpp
+	"FilaComPrioridade.h"
+
+1638053332 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\filacomprioridade.h
+	"Fila.h"
+	"Datagrama.h"
+
+1638054142 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\hospedeiro.cpp
+	"Hospedeiro.h"
+
+1638046116 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\no.cpp
+	"No.h"
+
+1638048010 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\rede.cpp
+	"Rede.h"
+
+1638050452 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\roteador.cpp
+	"Roteador.h"
+
+1638053332 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\roteadorcomqos.cpp
+	"RoteadorComQoS.h"
+
+1638052470 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\roteadorcomqos.h
+	"Roteador.h"
+	"FilaComPrioridade.h"
+	<vector>
+
+1637910972 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\segmento.cpp
+	"Segmento.h"
+
+1638051572 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\tabeladerepasse.cpp
+	"TabelaDeRepasse.h"
+
+1638052920 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\teste.cpp
+	"Segmento.h"
+	"Datagrama.h"
+	"Fila.h"
+	"FilaComPrioridade.h"
+	"No.h"
+	"Roteador.h"
+	"RoteadorComQoS.h"
+	<string>
+	<iostream>
+
+1638332475 source:c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\persistenciaderede.cpp
+	"PersistenciaDeRede.h"
+	<stdexcept>
+	<fstream>
+	<iostream>
+
+1638331726 c:\users\lucas\onedrive\햞ea de trabalho\ec 2 laboo da stephanie\ep2\persistenciaderede.h
+	"Hospedeiro.h"
+	"RoteadorComQoS.h"
+	<fstream>
+	"Rede.h"
+
